@@ -59,7 +59,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 ![output](django.png)
-Include the screenshot of your admin page.
+
 
 
 ## RESULT
